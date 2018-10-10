@@ -6,3 +6,6 @@
 * Branches
 * student repositories
 * This is new task
+
+
+* These are the tasks committed from the master branch after the edits from new branch
